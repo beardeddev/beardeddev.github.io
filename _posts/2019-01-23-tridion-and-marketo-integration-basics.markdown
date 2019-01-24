@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Tridion and Marketo Integration Basics "
+title:  "Tridion and Marketo ntegration basics "
 date:   2019-01-23 16:15:05 +0200
 categories: tridion
 ---
 Tridion and Marketo Integration Basics 
 
-The Marketo integration allows you to quickly and easily Marketo embed marketo forms on a website. 
+The Marketo integration allows you to quickly and easily embed marketo forms on a website. 
 From within the Marketo platform, you can insert a token into your email campaign to assign personalized survey links to each unique lead.
 To embed marketo form on a tridion powered website we are going to use Forms 2.0 javascript api.
 At the begining we need a form to embed on website. Let's create a form using Form Editor 2.0 from within Marketo Lead Management form designer.
